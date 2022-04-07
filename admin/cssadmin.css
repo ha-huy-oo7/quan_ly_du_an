@@ -1,0 +1,82 @@
+.anhsanpham{
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+    margin-right: 20px;
+}
+.table{
+    width: 1230px;
+    margin-bottom: 1rem;
+    color: #858796;
+    line-height: 50px;
+
+}
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    width: 1300px;
+    padding-right: .75rem;
+    padding-left: .75rem;
+    margin-right: 1200px;
+    margin-left: -1300px;
+    margin-top: 126px;
+}
+
+.masp{  
+	width: 100px;
+	line-height: 50px;
+    text-align: center;
+}
+.tensp{
+	width: 260px;
+    line-height: 50px;
+}
+.money{
+	width: 85px;
+	line-height: 50px;
+}
+.sl{
+	width: 100px;
+    text-align: center;
+    line-height: 50px;
+}
+.mancc{
+    width: 130px;
+    line-height: 50px;
+}
+
+.icontable{
+    float: left;
+    font-size: 18px;
+    width: 32px;
+    height: 45px;
+    text-align: center;
+    line-height: 50px;
+}
+.icontable:hover{
+    color: #FFCC00;
+}
+.checkboxsp{
+    width: 25px;
+    height: 25px;
+    line-height: 50px;
+}
+.buttonthem{
+    margin-top: 80px;
+    width: 150px;
+    height: 40px;
+    margin-left: -170px;
+    border-radius: 32px;
+    background: #4e73df;
+    color: white;
+    border: none;
+}
+.buttonthem:hover{
+    background: #CC6699;
+    color: white;
+}
+.sticky-footer{
+    padding: 2rem 0;
+    flex-shrink: 0;
+    width: 1295px;
+    float: right;
+    margin-top: -78px;
+}
